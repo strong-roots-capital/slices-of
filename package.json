@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/slices-of",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generate all slices of given length out of an array",
   "main": "dist/src/slices-of.js",
   "types": "dist/src/slices-of.d.ts",
